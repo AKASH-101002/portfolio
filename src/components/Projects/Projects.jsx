@@ -19,8 +19,20 @@ export default function Projects() {
                 to detect and minimize misinformation using ML and graph algorithms.
               </p>
               <div className="links">
-                <a href="#">GitHub</a>
-                <a href="#">Live Demo</a>
+                <a
+                  href="https://github.com/AKASH-101002"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  GitHub
+                </a>
+
+                <a
+                  href="/"
+                  onClick={(e) => e.preventDefault()}
+                >
+                  Live Demo
+                </a>
               </div>
             </div>
           </div>
@@ -39,8 +51,20 @@ export default function Projects() {
                 with dynamic key management and access control.
               </p>
               <div className="links">
-                <a href="#">GitHub</a>
-                <a href="#">Live Demo</a>
+                <a
+                  href="https://github.com/AKASH-101002"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  GitHub
+                </a>
+
+                <a
+                  href="/"
+                  onClick={(e) => e.preventDefault()}
+                >
+                  Live Demo
+                </a>
               </div>
             </div>
           </div>
@@ -59,8 +83,20 @@ export default function Projects() {
                 to showcase skills and projects.
               </p>
               <div className="links">
-                <a href="#">GitHub</a>
-                <a href="#">Live Demo</a>
+                <a
+                  href="https://github.com/AKASH-101002"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  GitHub
+                </a>
+
+                <a
+                  href="/"
+                  onClick={(e) => e.preventDefault()}
+                >
+                  Live Demo
+                </a>
               </div>
             </div>
           </div>
